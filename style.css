@@ -1,0 +1,16 @@
+.us-residents-indicator {
+  border: 2px solid #ffd700; /* Replace #FFD700 with the desired border color */
+  background-color: #ffff00; /* Replace #FFFF00 with the desired background color */
+  color: #000000; /* Replace #000000 with the desired text color */
+  border-radius: 4px; /* Adjust the value to control the amount of border curvature */
+  padding: 3px; /* Adjust the value to control the spacing between the content and border */
+  font-weight: bolder;
+}
+.study-indicator {
+  border: 2px solid #ffd700; /* Replace #FFD700 with the desired border color */
+  background-color: #707004; /* Replace #FFFF00 with the desired background color */
+  color: #e9e0e0; /* Replace #000000 with the desired text color */
+  border-radius: 4px; /* Adjust the value to control the amount of border curvature */
+  padding: 3px; /* Adjust the value to control the spacing between the content and border */
+  font-weight: bolder;
+}
