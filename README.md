@@ -39,3 +39,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 This Chrome extension is a third-party tool and is not officially affiliated with or endorsed by LinkedIn. It is provided as-is, without any warranties or guarantees. Use it at your own discretion.
 
 We hope you find the LinkedIn Job Indicator Chrome Extension helpful in your job search!
+
+![Screenshot Description](https://github.com/SanjayKumarTS/Job-Finder/blob/main/Screenshot.png)
