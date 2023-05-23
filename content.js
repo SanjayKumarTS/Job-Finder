@@ -34,7 +34,7 @@ function addIndicatorForLinkedin() {
       for (let j = 0; j < USOnly.length; j++) {
         if (containerText.includes(USOnly[j])) {
           const indicator = document.createElement("span");
-          indicator.innerText = "US Only";
+          indicator.innerText = "Accepting US Citizens Only";
           indicator.classList.add("us-residents-indicator");
 
           // Check if targetDiv has a next sibling
@@ -55,7 +55,7 @@ function addIndicatorForLinkedin() {
           !containerText.includes("master's"))
       ) {
         const indicator = document.createElement("span");
-        indicator.innerText = "Bachelor's Only";
+        indicator.innerText = "Accepting Bachelors Only";
         indicator.classList.add("study-indicator");
         if (targetDiv.nextSibling) {
           targetDiv.parentNode.insertBefore(indicator, targetDiv.nextSibling);
